@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">MisEstrenos</string>
+    <string name="titulo">Titulo</string>
+    <string name="fecha">Fecha</string>
+    <string name="descripci_n">Descripción</string>
+    <string name="agregar">Agregar</string>
+    <string name="todo">TODO</string>
+    <string name="imagen">imagen</string>
+    <string name="opciones">Opciones</string>
 </resources>
